@@ -8,9 +8,7 @@ A Flutter mobile application UI for a Doctor Profile, designed to be responsive 
 * **No Scroll:** All content fits within the screen boundaries.
 
 ## Screenshots 📱
-- Place your screenshot file at `screenshots/screenshot.png` in the project root.
-- Example markdown to display the image in this README:
-- ![Doctor Profile Screenshot](screenshots/Screenshot.png)
+![Doctor Profile Screenshot](doctor_profile_task/screenshots/Screenshot.png)
 
 If you name the file differently, update the path above accordingly. Commit the image so GitHub displays it.
 
